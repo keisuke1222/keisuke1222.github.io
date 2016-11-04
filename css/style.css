@@ -127,7 +127,7 @@ header .site-title
     font-size: 18px;
     font-size: 1.8rem;
     line-height: normal;
-    color: #FF1C61;
+    color: #BF4599;
 }
 header .site-title span
 {
@@ -136,7 +136,7 @@ header .site-title span
 
     display: block;
 
-    color: #BF4E0B;
+    color: #B39D23;
 }
 header .profile-icon
 {
@@ -170,7 +170,7 @@ section h2
 
 #skills
 {
-    background-color: #BF4E0B;
+    background-color: #B39D23;
 }
 #skills .container
 {
@@ -217,7 +217,7 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #FF1C61;
+    background-color: #BF4599;
 }
 #skills h3
 {
@@ -227,7 +227,7 @@ section h2
 
     margin-bottom: 10px;
 
-    color: #FF1C61;
+    color: #BF4599;
 }
 
 #works
@@ -312,7 +312,7 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #FF1C61;
+    background-color: #BF4599;
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
@@ -360,7 +360,7 @@ section h2
     vertical-align: top;
 }
 #contact h2{
-    color: #fdfcf6;
+    color: #FF7CD6;
 }
 #contact ul li:last-child
 {
@@ -387,7 +387,7 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #FF1C61;
+    background-color: #BF4599;
 }
 #contact ul a:hover
 {
@@ -403,5 +403,5 @@ footer
     text-align: center;
 
     color: #fff;
-    background-color: #BF4E0B;
+    background-color: #B39D23;
 }
